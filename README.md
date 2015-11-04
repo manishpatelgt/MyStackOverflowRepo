@@ -7,34 +7,34 @@ Will get all the data from [StackOverflow](http://stackoverflow.com/users/111433
 
 1. **Home**
 
-   ![Screen12](https://github.com/manishpatelgt/MaterialDesignCode/blob/master/MyStacky/device-2015-11-04-120541.png)
+   ![Screen12](https://github.com/manishpatelgt/MyStackOverflowRepo/blob/master/MyStacky/device-2015-11-04-120541.png)
  
-   ![Screen1](https://github.com/manishpatelgt/MaterialDesignCode/blob/master/MyStacky/device-2015-11-04-120455.png)
+   ![Screen1](https://github.com/manishpatelgt/MyStackOverflowRepo/blob/master/MyStacky/device-2015-11-04-120455.png)
   
-   ![Screen12](https://github.com/manishpatelgt/MaterialDesignCode/blob/master/MyStacky/device-2015-11-04-120514.png)
+   ![Screen12](https://github.com/manishpatelgt/MyStackOverflowRepo/blob/master/MyStacky/device-2015-11-04-120514.png)
    
    
 2. **Questions**
 
-   ![Screen2](https://github.com/manishpatelgt/MaterialDesignCode/blob/master/MyStacky/device-2015-11-04-120527.png)
+   ![Screen2](https://github.com/manishpatelgt/MyStackOverflowRepo/blob/master/MyStacky/device-2015-11-04-120527.png)
    
    
 3. **Favourites**
 
-   ![Screen3](https://github.com/manishpatelgt/MaterialDesignCode/blob/master/MyStacky/device-2015-11-04-120551.png)
+   ![Screen3](https://github.com/manishpatelgt/MyStackOverflowRepo/blob/master/MyStacky/device-2015-11-04-120551.png)
    
    
 4. **Privileges**
 
-   ![Screen4](https://github.com/manishpatelgt/MaterialDesignCode/blob/master/MyStacky/device-2015-11-04-120611.png)
+   ![Screen4](https://github.com/manishpatelgt/MyStackOverflowRepo/blob/master/MyStacky/device-2015-11-04-120611.png)
    
    
 5. **Badges**
 
-   ![Screen5](https://github.com/manishpatelgt/MaterialDesignCode/blob/master/MyStacky/device-2015-11-04-120623.png)
+   ![Screen5](https://github.com/manishpatelgt/MyStackOverflowRepo/blob/master/MyStacky/device-2015-11-04-120623.png)
    
    
 6. **Active Tags**
 
-   ![Screen6](https://github.com/manishpatelgt/MaterialDesignCode/blob/master/MyStacky/device-2015-11-04-120633.png)
+   ![Screen6](https://github.com/manishpatelgt/MyStackOverflowRepo/blob/master/MyStacky/device-2015-11-04-120633.png)
 
