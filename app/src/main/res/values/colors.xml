@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="chocolate1">#FF7F24</color>
+    <color name="chocolate2">#EE7621</color>
+    <color name="chocolate3">#CD661D</color>
+
+    <color name="yellow">#FFFF00</color>
+    <color name="yellow2">#EEEE00</color>
+    <color name="yellow3">#CDCD00</color>
+    <color name="yellow4">#8B8B00</color>
+
+    <color name="darkgreen">#006400</color>
+
+
+    <color name="grey">#808080</color>
+    <color name="text">#212121</color>
+    <color name="dividers">#DADADA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="secondary">#727272</color>
+
+    <color name="orange">#FFA500</color>
+    <color name="orange2">#EE9A00</color>
+    <color name="orange3">#CD8500</color>
+    <color name="orange4">#8B5A00</color>
+    <color name="orangebright">#EC7600</color>
+    <color name="orangegoogle">#F4842D</color>
+    <color name="orangered">#FF4500</color>
+    <color name="orangered2">#EE4000</color>
+    <color name="orangered3">#CD3700</color>
+
+    <color name="theme_accent">@color/orange</color>
+    <color name="theme_default_primary">@color/colorPrimary</color>
+    <color name="theme_default_primary_dark">@color/colorPrimaryDark</color>
+
+    <!-- general colors for drawer -->
+    <color name="list_background">#F2F2F2</color>
+    <!-- primary colors for drawer -->
+    <color name="list_background_normal">#FCFCFC</color>
+    <!-- secondary colors for drawer -->
+    <color name="list_background_secondary_normal">#F2F2F2</color>
+    <color name="darkgrey">#6d8383</color>
+    <color name="darkgray2">#A9A9A9</color>
+    <color name="light_gray">#AA808080</color>
+    <color name="tab_bg">#142029</color>
+    <color name="bg_light_blue">#EBF5FF</color>
+    <color name="light_black">#CC000000</color>
+    <color name="light_black_AA">#AA000000</color>
+
+
+</resources>

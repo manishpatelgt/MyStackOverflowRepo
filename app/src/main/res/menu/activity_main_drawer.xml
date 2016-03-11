@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_questions"
+            android:title="My Questions" />
+        <item
+            android:id="@+id/nav_fav"
+            android:title="My Favorites" />
+
+        <item
+            android:id="@+id/nav_privileges"
+            android:title="My Privileges" />
+
+        <item
+            android:id="@+id/nav_badgess"
+            android:title="My Badgess" />
+
+        <item
+            android:id="@+id/nav_tags"
+            android:title="My Active Tags" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Logout" />
+    </group>
+
+
+</menu>

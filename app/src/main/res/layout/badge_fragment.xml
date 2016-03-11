@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:clipToPadding="false"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:id="@+id/container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                card_view:cardBackgroundColor="@color/orange"
+                card_view:cardCornerRadius="5dp"
+                card_view:cardElevation="4dp"
+                card_view:contentPadding="10dp">
+
+                <ScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_centerHorizontal="true"
+                    android:clipToPadding="false"
+                    android:scrollbars="none">
+
+                    <TextView
+                        android:id="@+id/gold_txt"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginEnd="8dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="8dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="4dp"
+                        android:maxLines="20"
+                        android:text="test"
+                        android:textColor="@color/primary_dark_material_dark"
+                        android:textSize="16sp"></TextView>
+
+                </ScrollView>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                card_view:cardBackgroundColor="@color/grey"
+                card_view:cardCornerRadius="5dp"
+                card_view:cardElevation="4dp"
+                card_view:contentPadding="10dp">
+
+                <ScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_centerHorizontal="true"
+                    android:clipToPadding="false"
+                    android:scrollbars="none">
+
+                    <TextView
+                        android:id="@+id/silver_txt"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginEnd="8dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="8dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="4dp"
+                        android:maxLines="20"
+                        android:text="test"
+                        android:textColor="@color/primary_dark_material_dark"
+                        android:textSize="16sp"></TextView>
+
+                </ScrollView>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                card_view:cardBackgroundColor="@color/orange4"
+                card_view:cardCornerRadius="5dp"
+                card_view:cardElevation="4dp"
+                card_view:contentPadding="10dp">
+
+                <ScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_centerHorizontal="true"
+                    android:clipToPadding="false"
+                    android:scrollbars="none">
+
+                    <TextView
+                        android:id="@+id/bronge_txt"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginEnd="8dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="8dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="4dp"
+                        android:text="test"
+                        android:textColor="@color/primary_dark_material_dark"
+                        android:textSize="16sp"></TextView>
+
+                </ScrollView>
+
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

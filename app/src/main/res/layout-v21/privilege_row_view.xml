@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:clickable="true"
+    android:foreground="@drawable/button_rect_list_normal"
+    card_view:cardCornerRadius="5dp"
+    card_view:cardElevation="4dp"
+    card_view:contentPadding="10dp">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp">
+
+
+        <TextView
+            android:id="@+id/short_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:clickable="false"
+            android:text="short desc"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/long_Short"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/short_desc"
+            android:layout_marginTop="10dp"
+            android:clickable="false"
+            android:text="long desc"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/repo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/long_Short"
+            android:layout_marginTop="10dp"
+            android:clickable="false"
+            android:text="1"
+            android:textSize="15sp" />
+
+
+    </RelativeLayout>
+</android.support.v7.widget.CardView>
